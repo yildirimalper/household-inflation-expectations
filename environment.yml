@@ -1,0 +1,19 @@
+name: twitter-inflation-expectations
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - selenium
+  - chromedriver
+  - nltk
+  - scikit-learn
+  - requests
+  - pip
+  - pip:
+    - webdriver-manager

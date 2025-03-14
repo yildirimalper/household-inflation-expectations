@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as follows:"
+authors:
+  - family-names: Bilgiç
+    given-names: Taha
+  - family-names: Yıldırım
+    given-names: Alper
+title: "Twitter-Based Household Inflation Expectations"
+year: 2025
+url: "https://github.com/yildirimalper/household-inflation-expectations"
+type: article
